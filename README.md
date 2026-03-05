@@ -145,5 +145,3 @@ Visit us: [happyendpoint.com](https://happyendpoint.com)
 ---
 
 > **Disclaimer:** This API is an independent service and is not affiliated with, endorsed, or sponsored by **Priceline.com**. All data is retrieved from publicly available sources.
-
-Do you want me to do that next?
